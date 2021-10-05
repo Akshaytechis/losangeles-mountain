@@ -1,18 +1,16 @@
-# LosAngeles-Mountains
-```
+## LosAngeles-Mountains
+
 Check out [LIVE DEMO](https://los-angeles-akshay.herokuapp.com/) here!!
-```
 
 
 ## Tech used
-````
+
 HTML
 CSS
-```
 
-Installation
+## Installation
 No need to install anything, just open index.html.
 
-How to use?
+## How to use?
 Customize and create your Los-angles website. Take on various challenges such as changing colors, adding effects, and changing designs. Just include Images and Text and don't get too complicated. Simple is the best.
 
