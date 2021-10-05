@@ -4,9 +4,10 @@ Check out [LIVE DEMO](https://los-angeles-akshay.herokuapp.com/) here!!
 
 
 ## Tech used
-
+```
 HTML
 CSS
+```
 
 ## Installation
 No need to install anything, just open index.html.
