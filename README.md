@@ -1,9 +1,14 @@
-LosAngeles-Mountains
-Learn about HTML / CSS. Visit https://los-angeles-akshay.herokuapp.com/
+# LosAngeles-Mountains
+```
+Check out [LIVE DEMO](https://los-angeles-akshay.herokuapp.com/) here!!
+```
 
-Tech used
+
+## Tech used
+````
 HTML
 CSS
+```
 
 Installation
 No need to install anything, just open index.html.
