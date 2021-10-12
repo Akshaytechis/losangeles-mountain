@@ -187,6 +187,11 @@ a {
     width: 83px;
   }
 }
+.header2 .h9 li {
+  padding: 20px;
+  display: inline;
+  color: darkgray;
+}
 
 /*******************
 *** History ***
@@ -209,7 +214,7 @@ a {
   position: absolute;
   left: 20%;
   font: 150px sans-serif;
-  top: 10%;
+  top: 9%;
   color: #41516b;
   opacity: 45%;
 }
@@ -402,8 +407,8 @@ a {
   line-height: 36px;
 }
 
-@media screen and (min-width: 401px) and (max-width: 1200px){
-.header3 .heading2 {
+@media screen and (min-width: 401px) and (max-width: 1200px) {
+  .header3 .heading2 {
     font-size: 50px;
     position: absolute;
     left: 18%;
@@ -412,19 +417,18 @@ a {
   }
 }
 
-  .header3 .heading2 {
-    font-size: 39px;
-    left: 36%;
-    top: 44%;
-  }
+.header3 .heading2 {
+  font-size: 39px;
+  left: 36%;
+  top: 44%;
+}
 
-  .header3 .h2text {
-    left: 50%;
-    top: 47%;
-    line-height: 15px;
-    font-size: 10px;
-  }
-
+.header3 .h2text {
+  left: 50%;
+  top: 47%;
+  line-height: 15px;
+  font-size: 10px;
+}
 
 @media screen and (min-width: 401px) and (max-width: 1200px) {
   .header3 .number2 {
@@ -447,6 +451,75 @@ a {
     top: 38%;
     color: #2e2d2d;
     line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 400px) {
+  .header3 .number2 {
+    position: absolute;
+    left: 0%;
+    font-size: 150px;
+    bottom: 4%;
+    color: #41516b;
+    opacity: 45%;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 400px) {
+  .header3 .heading2 {
+    font-size: 37px;
+    left: 48%;
+    top: 22%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 568px) {
+  .header3 .heading2 {
+    font-size: 30px;
+    left: 45%;
+    top: 22%;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 568px) {
+  .header3 .number2 {
+    position: absolute;
+    left: 1%;
+    font-size: 105px;
+    bottom: 11%;
+    color: #41516b;
+    opacity: 45%;
+  }
+  .header3 .h2text {
+    left: 46%;
+    top: 44%;
+    line-height: 10px;
+    font-size: 11px;
+  }
+}
+@media screen and (min-width: 375px) and (max-width: 667px) {
+  .header3 .h2text {
+    left: 42%;
+    top: 40%;
+    line-height: 18px;
+    font-size: 12px;
+  }
+  .header3 .heading2 {
+    font-size: 30px;
+    left: 41%;
+    top: 22%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 400px) {
+  .header3 .h2text {
+    left: 46%;
+    top: 44%;
+    line-height: 10px;
+    font-size: 11px;
+  }
+  .header2 .li {
+    padding: 8px;
+    font-size: 7px;
+    margin-right: -6%;
   }
 }
 
