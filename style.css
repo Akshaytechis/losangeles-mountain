@@ -44,13 +44,13 @@ a {
   width: 100% auto;
   height: 90vh;
 }
-.main {
+/* .main {
   height: 90vh;
   width: 100%;
   position: relative;
   background: url("img/background-main.png");
   background-size: 100% 100%;
-}
+} */
 .main .header {
   position: absolute;
   top: 10px;
