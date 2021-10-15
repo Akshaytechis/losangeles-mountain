@@ -82,11 +82,11 @@ a {
   z-index: 3;
   width: 55%;
 }
-.main .text {
+.main img.text {
   width: 40%;
   position: absolute;
   left: 30%;
-  top: 26%;
+  top: 90px;
   z-index: 1;
 }
 @media screen and (max-width: 1200px) {
@@ -95,11 +95,11 @@ a {
     width: 21px;
   }
 
-  .main .text {
+  /* .main .text {
     width: 60%;
     left: 20%;
     top: 138px;
-  }
+  } */
 
   .main .header ul {
     margin: 0;
