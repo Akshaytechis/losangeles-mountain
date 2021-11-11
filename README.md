@@ -1,5 +1,5 @@
 ## LosAngeles-Mountains
-### Akshay
+
 Check out [LIVE DEMO](https://los-angeles-akshay.herokuapp.com/) here!!
 
 
